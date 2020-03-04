@@ -158,8 +158,8 @@ Function ConfigureApplications
    Write-Host "Creating the AAD application (active-directory-javascript-graphapi-v2)"
    # create the application 
    $spaAadApplication = New-AzureADApplication -DisplayName "active-directory-javascript-graphapi-v2" `
-                                               -HomePage "http://localhost:3000/" `
-                                               -ReplyUrls "http://localhost:3000/" `
+                                               -HomePage "http://localhost:30662/" `
+                                               -ReplyUrls "http://localhost:30662/" `
                                                -IdentifierUris "https://$tenantName/active-directory-javascript-graphapi-v2" `
                                                -AvailableToOtherTenants $True `
                                                -Oauth2AllowImplicitFlow $true `

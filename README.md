@@ -58,7 +58,7 @@ A simple vanilla JavaScript single-page application which demonstrates how to co
    2. Replace the string `"Enter_the_Graph_Endpoint_Herev1.0/me"` with `"https://graph.microsoft.com/v1.0/me"`.
    3. Replace the string `"Enter_the_Graph_Endpoint_Herev1.0/me/messages"` with `"https://graph.microsoft.com/v1.0/me/messages"`.
 3. To start the sample application, run `npm start`.
-4. Next, open a browser to [http://localhost:3000](http://localhost:3000).
+4. Next, open a browser to [http://localhost:30662](http://localhost:30662).
 
 ## Key points
 

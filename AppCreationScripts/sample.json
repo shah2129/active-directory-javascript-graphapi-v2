@@ -13,8 +13,8 @@
         "Id": "spa",
         "Name": "active-directory-javascript-graphapi-v2",
         "Kind" :  "SinglePageApplication",
-        "HomePage": "http://localhost:3000/",
-        "ReplyUrls":"http://localhost:3000/",
+        "HomePage": "http://localhost:30662/",
+        "ReplyUrls":"http://localhost:30662/",
         "RequiredResourcesAccess": [
           {
             "Resource": "Microsoft Graph",

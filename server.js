@@ -11,7 +11,7 @@ const path = require('path');
 const app = express();
 
 // Initialize variables.
-const port = 3000; // process.env.PORT || 3000;
+const port = 30662; // process.env.PORT || 30662;
 
 // Configure morgan module to log all requests.
 app.use(morgan('dev'));
