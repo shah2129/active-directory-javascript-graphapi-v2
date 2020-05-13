@@ -1,10 +1,14 @@
-#### NOTE- This repo was added to provide an example of how to call the Microsoft Booking API. 
-#### Most of the README content has not been changed yet. 
-#### Microsoft's active-directory-javascript-graphapi-v2 tutorial was modified for the example since it provides an excellent foundation for how to call the Graph API.
+##### [NOTE] This repo provides an example of how to call the Microsoft Bookings API. The source code will need to be modified for Production use. Microsoft's active-directory-javascript-graphapi-v2 tutorial was used for the example since it provides an excellent foundation for how to call the Graph API. 
 
-### Here is the link to the original code provided by Microsoft https://github.com/Azure-Samples/active-directory-javascript-graphapi-v2
+#### The Microsoft Bookings API calls in this example were added to JavaScriptSPA/ui.js. 
 
 ![](https://raw.githubusercontent.com/shah2129/active-directory-javascript-graphapi-v2/quickstart/screenshot_showing_ui.png)
+ 
+##### Most of the README content has not been changed from the orginal active-directory-javascript-graphapi-v2 tutorial. Additonal updates will need to be made to this README.
+
+ 
+#### Here is the link to the original code provided by Microsoft https://github.com/Azure-Samples/active-directory-javascript-graphapi-v2
+
 
 ---
 page_type: sample
@@ -22,9 +26,9 @@ urlFragment: "active-directory-javascript-graphapi-v2"
 
 # MSAL JavaScript Sample Application with Bookings API
 
-The purpose of this repo is to provide an example of how to call the Microsoft Booking API.
+The purpose of this repo is to provide an example of how to call the Microsoft Bookings API.
 
-Here is the link to the Booking API documentation:
+Here is the link to the Bookings API documentation:
 https://docs.microsoft.com/en-us/graph/api/resources/booking-api-overview?view=graph-rest-beta
 
 
