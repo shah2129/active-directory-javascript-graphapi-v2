@@ -1,4 +1,4 @@
-#### NOTE- This repo provide an example of how to call the Microsoft Booking API. 
+#### NOTE- This repo was added to provide an example of how to call the Microsoft Booking API. 
 #### Most Of the README content has not been changed yet. 
 #### Microsoft's active-directory-javascript-graphapi-v2 tutorial was modified for the example since it provides an excellent foundation for how to call the Graph API.
 
