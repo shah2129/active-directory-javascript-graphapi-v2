@@ -1,4 +1,4 @@
-#[NOTE] This repo provides an example of how to call the Microsoft Bookings API. The source code will need to be modified for Production use. Microsoft's active-directory-javascript-graphapi-v2 tutorial was used for the example since it provides an excellent foundation for how to call the Graph API. 
+**Note:*This repo provides an example of how to call the Microsoft Bookings API. The source code will need to be modified for Production use. Microsoft's active-directory-javascript-graphapi-v2 tutorial was used for the example since it provides an excellent foundation for how to call the Graph API. 
 
 The Microsoft Bookings API calls in this example were added to JavaScriptSPA/ui.js. 
 
