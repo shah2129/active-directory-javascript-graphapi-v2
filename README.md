@@ -1,3 +1,7 @@
+## NOTE- This was created to provide an example of how to call the Microsoft Bookings API.
+## Here is the link to the original repo https://github.com/Azure-Samples/active-directory-javascript-graphapi-v2
+
+
 ---
 page_type: sample
 languages:
@@ -9,11 +13,6 @@ products:
 description: "A simple JavaScript single-page application calling Microsoft Graph API using msal.js (w/ AAD v2 endpoint)"
 urlFragment: "active-directory-javascript-graphapi-v2"
 ---
-## NOTE- This was created to provide an example of how to call the Microsoft Bookings API.
-## Here is the link to the original repo https://github.com/Azure-Samples/active-directory-javascript-graphapi-v2
-
-
-
 
 -------------------
 
