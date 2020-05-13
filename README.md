@@ -1,6 +1,7 @@
 ## NOTE- This was created to provide an example of how to call the Microsoft Bookings API.
 ## Here is the link to the original repo https://github.com/Azure-Samples/active-directory-javascript-graphapi-v2
 
+![](https://raw.githubusercontent.com/shah2129/active-directory-javascript-graphapi-v2/quickstart/screenshot_showing_ui.png)
 
 ---
 page_type: sample
