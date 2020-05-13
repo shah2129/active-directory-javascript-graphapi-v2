@@ -13,8 +13,8 @@
         "Id": "spa",
         "Name": "active-directory-javascript-graphapi-v2",
         "Kind" :  "SinglePageApplication",
-        "HomePage": "http://localhost:3000/",
-        "ReplyUrls":"http://localhost:3000/",
+        "HomePage": "http://localhost:30662/",
+        "ReplyUrls":"http://localhost:30662/",
         "RequiredResourcesAccess": [
           {
             "Resource": "Microsoft Graph",
@@ -27,35 +27,20 @@
     "CodeConfiguration": [
       {
         "App": "spa",
-        "SettingKind": "Replace",
+        "SettingKind": "Text",
         "SettingFile": "\\..\\JavaScriptSPA\\authConfig.js",
         "Mappings": [
           {
-            "key": "Enter_the_Application_Id_Here",
+            "key": "clientId",
             "value": ".AppId"
           },
           {
-            "key": "Enter_the_Cloud_Instance_Id_HereEnter_the_Tenant_Info_Here",
+            "key": "authority",
             "value": "\"https://login.microsoftonline.com/\"+$tenantName"
           },
           {
-            "key": "Enter_the_Redirect_Uri_Here",
+            "key": "redirectUri",
             "value": ".HomePage"
-          }
-        ]
-      },
-      {
-        "App": "spa",
-        "SettingKind": "Text",
-        "SettingFile": "\\..\\JavaScriptSPA\\graphConfig.js",
-        "Mappings": [
-          {
-            "key": "graphMeEndpoint",
-            "value": "'https://graph.microsoft.com/v1.0/me/'"
-          },
-          {
-            "key": "graphMailEndpoint",
-            "value": "'https://graph.microsoft.com/v1.0/me/messages/'"
           }
         ]
       }
